@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-### Staff / Principal Technical Program Manager SAAS | AI & ML | Cloud | Data | Software Delivery
+### Staff / Principal Technical Program Manager SAAS | AI & ML | Cloud | Data | Software Delivery | IT / Cyber Security | ERP / CRM
 
-I am a Staff-level Technical Program Manager with 17+ years of experience leading large-scale technology programs across **AI/ML, Cloud, Data, SaaS, Cybersecurity, Infrastructure, and Digital Transformation**.
+I am a Staff-level Technical Program Manager with 17+ years of experience leading Cross-Functional large-scale technology programs across **AI/ML, Cloud, Data, SaaS, Cybersecurity, ERP/CRM, Infrastructure and Digital Transformation**.
 
 I specialize in turning complex technology initiatives into structured execution plans, aligning engineering and business teams, managing dependencies and risks, and delivering measurable business outcomes.
 
