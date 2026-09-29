@@ -12,9 +12,9 @@ I specialize in turning complex technology initiatives into structured execution
 
 - Technical Program Management
 - AI/ML & GenAI Programs
-- Cloud & Infrastructure Transformation
+- Cloud & Digital Transformation
 - Data & Analytics Platforms
-- SaaS & Enterprise Platforms
+- Product development SaaS & Enterprise Platforms
 - Software Delivery & SDLC
 - Cloud Cost Optimization
 - Cybersecurity & Zero Trust
