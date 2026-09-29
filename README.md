@@ -29,7 +29,7 @@ I specialize in turning complex technology initiatives into structured execution
 I am exploring how AI can augment Technical Program Management workflows.
 
 
-**[AI TPM Risk Agent](https://github.com/YOUR-USERNAME/ai-tpm-risk-agent)**
+**[AI TPM Risk Agent](https://github.com/sudarkp158-gif/ai-tpm-risk-agent)**
 
 An AI-assisted program management workflow that analyzes project updates and generates:
 
@@ -49,7 +49,7 @@ The project is intentionally designed around a **human-in-the-loop AI TPM workfl
 
 ## 🔄 Modern Software Delivery
 
-**[Deployment Using CI/CD Pipeline](https://github.com/YOUR-USERNAME/Deployment-using-CI-CD-Pipeline)**
+**[Deployment Using CI/CD Pipeline](https://github.com/sudarkp158-gif/Deployment-using-CI-CD-Pipeline)**
 
 A hands-on implementation of a modern software delivery pipeline using:
 
