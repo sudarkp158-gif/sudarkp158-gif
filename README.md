@@ -8,22 +8,6 @@ Below is a collection of my recent repositories focusing on AI-driven workflows,
 
 ---
 
-## 🚀 What I Work On
-
-- Technical Program Management
-- AI/ML & GenAI Programs
-- Cloud & Digital Transformation
-- Data & Analytics Platforms
-- Product development SaaS & Enterprise Platforms
-- Software Delivery & SDLC
-- Cloud Cost Optimization
-- Cybersecurity & Zero Trust
-- Cross-functional & Executive Leadership
-- Program Governance, Risk & Dependency Management
-- OKRs, KPIs & Data-driven Execution
-
----
-
 ## 🤖 AI + Technical Program Management
 
 
