@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Sudarsan
 
-### Staff / Principal Technical Program Manager - SAAS | AI / ML / LLM | Cloud | Data | Software Delivery | IT / Cyber Security | ERP / CRM
+### Cross-Functional TPM | Staff / Principal Technical Program Manager - SAAS | AI / ML / LLM | Cloud | Data | Software Delivery | IT / Cyber Security | ERP / CRM
 
 Seasoned Technical Program Manager (TPM) with 15+ years of experience leading large-scale, cross-functional engineering and digital transformation initiatives. I specialize in bridging the gap between complex technical architecture, managing dependencies and risks and strategic business execution across diverse domains, including AI/ML, Cloud Infrastructure, Cybersecurity, Data Systems, SaaS, and Enterprise Platforms (ERP/CRM). With a strong foundational background in software development and system architecture, I excel at driving high-impact technology programs from concept to successful global implementation.
 
