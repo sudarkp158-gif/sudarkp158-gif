@@ -2,7 +2,7 @@
 
 ### Staff / Principal Technical Program Manager SAAS | AI & ML | Cloud | Data | Software Delivery | IT / Cyber Security | ERP / CRM
 
-I am a Staff-level Technical Program Manager with 17+ years of experience leading Cross-Functional large-scale technology programs across **AI/ML, Cloud, Data, SaaS, Cybersecurity, ERP/CRM, Infrastructure and Digital Transformation**.
+I am a Staff-level Technical Program Manager with 15+ years of experience leading Cross-Functional large-scale technology programs across **AI/ML, Cloud, Data, SaaS, Cybersecurity, ERP/CRM, Infrastructure and Digital Transformation**.
 
 I specialize in turning complex technology initiatives into structured execution plans, aligning engineering and business teams, managing dependencies and risks, and delivering measurable business outcomes.
 
@@ -25,8 +25,6 @@ I specialize in turning complex technology initiatives into structured execution
 ---
 
 ## 🤖 AI + Technical Program Management
-
-I am exploring how AI can augment Technical Program Management workflows.
 
 
 **[AI TPM Risk Agent](https://github.com/sudarkp158-gif/ai-tpm-risk-agent)**
@@ -82,3 +80,12 @@ Production Approval
 Production Deployment
  ↓
 Monitoring & Metrics
+
+```
+
+**Working on the below:**
+## 🔄 AI Agent for Project Analysis and Planning
+## 🔄 AI workflow to create a live dashboard based on the jira / confluence updates
+## 🔄 AI agent for Cloud Cost Optimization that identifies the idle/stale Cloud Resources
+## 🔄 AI agent for System Design, BoilerPlate templates and Automation
+
