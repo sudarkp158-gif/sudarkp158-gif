@@ -4,7 +4,7 @@
 
 Seasoned Technical Program Manager (TPM) with 15+ years of experience leading large-scale, cross-functional engineering and digital transformation initiatives. I specialize in bridging the gap between complex technical architecture, managing dependencies and risks and strategic business execution across diverse domains, including AI/ML, Cloud Infrastructure, Cybersecurity, Data Systems, SaaS, and Enterprise Platforms (ERP/CRM). With a strong foundational background in software development and system architecture, I excel at driving high-impact technology programs from concept to successful global implementation.
 
-Below is a collection of my recent repositories focusing on AI-driven workflows, AI agents, modern technical architectures and implementation, system integrations and smart automation tools for real world scenarios.
+Below is a collection of my recent repositories focusing on AI-driven workflows, AI agents, modern technical architectures and deployments, system integrations and smart automation tools for real world scenarios.
 
 ---
 
