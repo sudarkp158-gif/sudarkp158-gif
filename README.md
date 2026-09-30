@@ -49,37 +49,38 @@ The project is intentionally designed around a **human-in-the-loop AI TPM workfl
 
 **[Deployment Using CI/CD Pipeline](https://github.com/sudarkp158-gif/Deployment-using-CI-CD-Pipeline)**
 
-A hands-on implementation of a modern software delivery pipeline using:
+# Deployment using CI/CD Pipeline
 
-- Git & GitHub
-- GitHub Actions
-- Python
-- Automated Testing
-- CI/CD
-- YAML-based workflows
+A hands-on demonstration of a modern CI/CD pipeline for deploying a containerized Python application from source code to a cloud environment.
 
-The project is progressively evolving toward:
+This project demonstrates practical understanding of software delivery, automation, containerization, cloud deployment, testing, secrets management, and production runtime concepts from a Technical Program Management perspective.
+
+---
+
+## Project Objective
+
+Build and demonstrate an end-to-end software delivery pipeline where a code change automatically moves through:
 
 ```text
-Code
- ↓
-Build
- ↓
+Developer
+   ↓
+GitHub Repository
+   ↓
+GitHub Actions
+   ↓
 Automated Tests
- ↓
-Security Checks
- ↓
-Docker
- ↓
-Development Deployment
- ↓
-Smoke Tests
- ↓
-Production Approval
- ↓
-Production Deployment
- ↓
-Monitoring & Metrics
+   ↓
+Docker Build
+   ↓
+GitHub Container Registry
+   ↓
+Render Deployment
+   ↓
+Gunicorn
+   ↓
+Flask Application
+   ↓
+Health Check
 
 ```
 
