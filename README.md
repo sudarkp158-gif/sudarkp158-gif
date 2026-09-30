@@ -2,9 +2,7 @@
 
 ### Staff / Principal Technical Program Manager SAAS | AI & ML | Cloud | Data | Software Delivery | IT / Cyber Security | ERP / CRM
 
-I am a Experienced Technical Program Manager with 15+ years of experience leading Cross-Functional large-scale technology programs across **AI/ML, Cloud, Data, SaaS, Cybersecurity, ERP/CRM, Infrastructure and Digital Transformation** with good exposure to Software development, Cloud, AI/ML, Architecture and Implementation
-
-I specialize in turning complex technology initiatives into structured execution plans, aligning engineering and business teams, managing dependencies and risks, and delivering measurable business outcomes.
+Seasoned Technical Program Manager (TPM) with 15+ years of experience leading large-scale, cross-functional engineering and digital transformation initiatives. I specialize in bridging the gap between complex technical architecture, managing dependencies and risks and strategic business execution across diverse domains, including AI/ML, Cloud Infrastructure, Cybersecurity, Data Systems, SaaS, and Enterprise Platforms (ERP/CRM). With a strong foundational background in software development and system architecture, I excel at driving high-impact technology programs from concept to successful global implementation.
 
 ---
 
