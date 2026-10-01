@@ -37,7 +37,7 @@ The project is intentionally designed around a **human-in-the-loop AI TPM workfl
 
 A hands-on demonstration of a modern CI/CD pipeline for deploying a containerized Python application from source code to a cloud environment.
 
-This project demonstrates practical understanding of software delivery, automation, containerization, cloud deployment, testing, secrets management, and production runtime concepts from a Technical Program Management perspective.
+This project demonstrates practical understanding of software delivery, automation, containerization, cloud deployment, testing, secrets management, and production runtime concepts.
 
 ---
 
