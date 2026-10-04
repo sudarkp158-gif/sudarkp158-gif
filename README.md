@@ -8,7 +8,7 @@ Below is a collection of my recent repositories focusing on AI-driven workflows,
 
 ---
 
-## 🤖 AI + Technical Program Management
+## 🤖 1. AI + Technical Program Management
 
 
 **[AI TPM Risk Agent](https://github.com/sudarkp158-gif/ai-tpm-risk-agent)**
@@ -29,7 +29,7 @@ The project is intentionally designed around a **human-in-the-loop AI TPM workfl
 
 ---
 
-## 🔄 Modern Software Delivery
+## 🔄 2. Modern Software Delivery
 
 **[Deployment Using CI/CD Pipeline](https://github.com/sudarkp158-gif/Deployment-using-CI-CD-Pipeline)**
 
@@ -67,7 +67,7 @@ Flask Application
 Health Check
 
 ```
-# ai-program-alignment-agent
+# ⚙️ 3. Ai-program-alignment-agent
 
 **[AI Program Alignment Agent](https://github.com/sudarkp158-gif/Ai-program-alignment-agent)**
 
