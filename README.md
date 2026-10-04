@@ -67,6 +67,39 @@ Flask Application
 Health Check
 
 ```
+# ai-program-alignment-agent
+
+**[AI Program Alignment Agent](https://github.com/sudarkp158-gif/Ai-program-alignment-agent)**
+
+This Ai Agent showcases AI-powered Technical Program Management that aligns cross-functional organizations around a common North Star Metric and evaluates competing program resolutions using the RICE prioritization framework.
+
+# High Level Architecture
+
+```text
+                  User Input
+                      │
+                      ▼
+              ┌───────────────┐
+              │ LLM Analysis  │
+              └───────┬───────┘
+                      │
+          ┌───────────┴───────────┐
+          │                       │
+          ▼                       ▼
+    Metric Analysis         Resolution Analysis
+          │                       │
+          ▼                       ▼
+  Candidate Metrics          RICE Inputs
+          │                       │
+          ▼                       ▼
+     AI Reasoning          Python Calculation
+          │                       │
+          └───────────┬───────────┘
+                      ▼
+              ┌───────────────┐
+              │ Final Report  │
+              └───────────────┘
+```
 
 **Working on the below:**
 ## 🔄 AI Agent for Project Analysis and Planning
