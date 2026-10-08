@@ -103,6 +103,8 @@ This Ai Agent showcases AI-powered Technical Program Management that aligns cros
 
 # 🤖 4. AI Program Dependency & Risk Prediction Agent
 
+**[AI Program Dependency & Risk Prediction Agent](https://github.com/sudarkp158-gif/Ai-program-dependency-risk-agent)**
+
 ## Objective
 I started building an AI-powered program dependency and risk assessment workflow
 because dependency management is one of the highest manual-toil areas for a TPM
